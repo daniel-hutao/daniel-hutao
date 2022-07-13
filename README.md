@@ -1,9 +1,5 @@
 ## What's up guys 👋
 
-I'm Daniel Hu (胡涛 in Chinese), [Merico](https://www.merico.dev) DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
-
-- My Website: <https://www.danielhu.cn>
-
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
   <img src="https://komarev.com/ghpvc/?username=daniel-hutao" alt="views" /> 
@@ -13,6 +9,9 @@ I'm Daniel Hu (胡涛 in Chinese), [Merico](https://www.merico.dev) DevOps Techn
   <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
 </p>
 
+I'm Daniel Hu (胡涛 in Chinese), [Merico](https://www.merico.dev) DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
+
+- My Website: <https://www.danielhu.cn>
 
 - [My Badges](https://www.credly.com/users/tao-hu.5b997776)
 
