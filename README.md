@@ -2,7 +2,7 @@
 
 I'm Daniel Hu (胡涛 in Chinese), [Merico](https://www.merico.dev) DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
 
-- My personal website: <https://www.danielhu.cn>
+- My Website: <https://www.danielhu.cn>
 
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
@@ -14,7 +14,7 @@ I'm Daniel Hu (胡涛 in Chinese), [Merico](https://www.merico.dev) DevOps Techn
 </p>
 
 
-- [My Badges in Credly](https://www.credly.com/users/tao-hu.5b997776)
+- [My Badges](https://www.credly.com/users/tao-hu.5b997776)
 
 <p align="center"> 
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/85286156-5fa6-458e-ae00-7887360a025d/image.png" alt="trophy" />
