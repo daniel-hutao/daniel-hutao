@@ -1,4 +1,6 @@
-### What's up guys 👋.
+## What's up guys 👋.
+
+I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, DevStream(@devstream-io) PMC Member, KubeSphere(@kubesphere) Community Member.
 
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
@@ -18,12 +20,3 @@
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao" alt="trophy" />
 </p>
-
-**🙍‍♂️ About Me**
-
-- 👉 I'm Daniel Hu (胡涛 in Chinese).
-- 🏠 Personal website here: <https://www.danielhu.cn>.
-
-**⌨️ How to Reach Me**:
-
-- 📫 Email: [farmer.hutao@outlook.com](mailto:farmer.hutao@outlook.com)
