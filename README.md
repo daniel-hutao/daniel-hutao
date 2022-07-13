@@ -20,5 +20,5 @@ I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https
 </td></tr></table>  
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
 </p>
