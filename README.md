@@ -9,9 +9,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
 </p>
 
-I'm Daniel Hu (胡涛 in Chinese), [Merico](https://www.merico.dev) DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
+I'm Daniel Hu (胡涛 in Chinese). My Website: <https://www.danielhu.cn>.
+- [Merico](https://www.merico.dev) DevOps Technologist
+- [DevStream](https://github.com/devstream-io/devstream) PMC Member
+- [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
 
-- My Website: <https://www.danielhu.cn>
+---
 
 - [My Badges](https://www.credly.com/users/tao-hu.5b997776)
 
