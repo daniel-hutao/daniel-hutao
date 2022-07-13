@@ -12,6 +12,19 @@ I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https
 </p>
 
 <table><tr><td valign="top" width="50%">
+  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" align="left" style="width: 100%" alt="DevStream Certified Open-Source Contributor - Professional" />
+</td><td valign="top" width="50%">
+
+  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" align="left" style="width: 100%" alt="DevStream Certified Open-Source Contributor - Professional" />
+</td><td valign="top" width="50%">
+  
+  <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" align="left" style="width: 100%" alt="DevStream Certified Open-Source Contributor - Professional" />
+</td><td valign="top" width="50%">
+  
+</td></tr></table>  
+
+
+<table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=daniel-hutao&show_icons=true&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-hutao&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
