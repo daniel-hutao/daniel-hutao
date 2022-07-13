@@ -1,9 +1,5 @@
 ## What's up guys 👋
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
-</p>
-
 I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member. My personal website: <https://www.danielhu.cn>
 
 <p align="center"> 
@@ -14,6 +10,9 @@ I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
 </p>
+
+
+- [My Badges in Credly](https://www.credly.com/users/tao-hu.5b997776)
 
 <p align="center"> 
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/85286156-5fa6-458e-ae00-7887360a025d/image.png" alt="trophy" />
@@ -26,4 +25,3 @@ I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-hutao&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
 </td></tr></table>  
-
