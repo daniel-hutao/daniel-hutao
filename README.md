@@ -11,19 +11,21 @@ I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" alt="trophy" />
 </p>
 
-<table><tr><td valign="top" width="50%">
+<table>
+  <tr><td valign="top" width="33.3%">
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" align="left" style="width: 100%" alt="DevStream Certified Open-Source Contributor - Professional" />
-</td><td valign="top" width="33.3%">
+
+    </td><td valign="top" width="33.3%">
 
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" align="left" style="width: 100%" alt="DevStream Certified Open-Source Contributor - Professional" />
   
 </td><td valign="top" width="33.3%">
   
   <img width="200" height="200" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" align="left" style="width: 100%" alt="DevStream Certified Open-Source Contributor - Professional" />
+
   
-</td><td valign="top" width="33.3%">
-  
-</td></tr></table>  
+</td></tr>
+</table>  
 
 
 <table><tr><td valign="top" width="50%">
