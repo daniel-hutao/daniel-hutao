@@ -1,6 +1,8 @@
 ## What's up guys 👋
 
-I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member. My personal website: <https://www.danielhu.cn>
+I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
+
+- My personal website: <https://www.danielhu.cn>
 
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
