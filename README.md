@@ -1,4 +1,4 @@
-## What's up guys 👋
+## Hello World👋
 
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
@@ -9,11 +9,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
 </p>
 
-I'm Daniel Hu (胡涛 in Chinese). My Website: <https://www.danielhu.cn>. I am:
+What's up guys I'm Daniel Hu (胡涛 in Chinese) and I am:
 
-- [Merico](https://www.merico.dev) DevOps Technologist
-- [DevStream](https://github.com/devstream-io/devstream) PMC Member
+- [Merico](https://www.merico.dev) DevOps Technologist;
+- [DevStream](https://github.com/devstream-io/devstream) PMC Member;
 - [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
+
+More about me please go to [my website](https://www.danielhu.cn).
 
 ---
 
