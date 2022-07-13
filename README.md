@@ -1,1 +1,3 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5563f3e8-4c1d-4286-8942-0f141b6caafb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center"> 
+  <img width="100" height="100" src="https://images.credly.com/size/680x680/images/3907f0ce-4e4b-44c9-8655-db11ea98cb8a/image.png" alt="trophy" />
+</p>
