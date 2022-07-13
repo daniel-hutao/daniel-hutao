@@ -1,10 +1,18 @@
-## What's up guys 👋.
+## What's up guys 👋
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
+</p>
 
 I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https://github.com/devstream-io/devstream) PMC Member, [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member. My personal website: <https://www.danielhu.cn>
 
 <p align="center"> 
   <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
   <img src="https://komarev.com/ghpvc/?username=daniel-hutao" alt="views" /> 
+</p>
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
 </p>
 
 <p align="center"> 
@@ -19,6 +27,3 @@ I'm Daniel Hu (胡涛 in Chinese), Merico DevOps Technologist, [DevStream](https
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-hutao&hide_border=true&layout=compact&hide=javascript,html,css,scss" align="left" style="width: 100%" />
 </td></tr></table>  
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
-</p>
