@@ -1,7 +1,6 @@
 ## Hello World👋
 
-<p align="center"> 
-  <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
+<p align=""> 
   <img src="https://komarev.com/ghpvc/?username=daniel-hutao" alt="views" /> 
 </p>
 
