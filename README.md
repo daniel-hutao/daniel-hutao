@@ -1,7 +1,8 @@
 ## Hello World👋
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
+  <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
+  <img src="https://komarev.com/ghpvc/?username=daniel-hutao" alt="views" /> 
 </p>
 
 What's up guys I'm Daniel Hu (胡涛 in Chinese) and I am:
@@ -23,6 +24,5 @@ More about me please go to [my website](https://www.danielhu.cn).
 </p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/followers/daniel-hutao?label=Followers" alt="follow" />
-  <img src="https://komarev.com/ghpvc/?username=daniel-hutao" alt="views" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=daniel-hutao&row=1" alt="trophy" />
 </p>
