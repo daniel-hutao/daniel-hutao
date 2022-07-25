@@ -1,7 +1,7 @@
 ## Hello World👋
 
 <p align=""> 
-  <img src="https://komarev.com/ghpvc/?username=daniel-hutao" alt="views" /> 
+  <img src="https://komarev.com/ghpvc/?username=daniel-hutao&color=green" alt="views" /> 
 </p>
 
 What's up guys I'm Daniel Hu (胡涛 in Chinese) and I am:
