@@ -10,7 +10,7 @@ What's up guys I'm Daniel Hu (胡涛 in Chinese), and I am:
 - [DevStream](https://github.com/devstream-io/devstream) PMC Member;
 - [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
 
-Want know more about me? Go to [my website](https://www.danielhu.cn).
+Want to know more about me? Go to [my website](https://www.danielhu.cn).
 
 ---
 
