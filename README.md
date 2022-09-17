@@ -4,13 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=daniel-hutao&color=green" alt="views" /> 
 </p>
 
-What's up guys I'm Daniel Hu (胡涛 in Chinese) and I am:
+What's up guys I'm Daniel Hu (胡涛 in Chinese), and I am:
 
 - [Merico](https://www.merico.dev) DevOps Technologist;
 - [DevStream](https://github.com/devstream-io/devstream) PMC Member;
 - [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
 
-More about me please go to [my website](https://www.danielhu.cn).
+Want know more about me? Go to [my website](https://www.danielhu.cn).
 
 ---
 
