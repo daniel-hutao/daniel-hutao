@@ -7,7 +7,7 @@
 What's up guys I'm Daniel Hu (胡涛 in Chinese), and I am:
 
 - [Merico](https://www.merico.dev) DevOps Technologist;
-- [DevStream](https://github.com/devstream-io/devstream) PMC Member;
+- [DevStream](https://github.com/devstream-io/devstream) PMC Chair;
 - [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
 
 Want to know more about me? Go to [my website](https://www.danielhu.cn).
