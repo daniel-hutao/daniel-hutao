@@ -7,8 +7,15 @@
 What's up guys I'm Daniel Hu (胡涛 in Chinese), and I am:
 
 - [Merico](https://www.merico.dev) DevOps Technologist;
+- [DevChat](https://github.com/devchat-ai/devchat) Community Member
 - [DevStream](https://github.com/devstream-io/devstream) PMC Chair;
 - [KubeSphere](https://github.com/kubesphere/kubesphere) Community Member.
+
+My Open Source Projects:
+
+| Project Name | Description |
+| ------------ | ----------- |
+| [SpinLock](https://github.com/daniel-hutao/spinlock) | 💃🔒 SpinLock: A high-performance spin lock implementation in Go. ⚡️🚀 |
 
 Want to know more about me? Go to [my website](https://www.danielhu.cn).
 
