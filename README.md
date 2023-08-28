@@ -18,7 +18,7 @@ My Open Source Projects:
 | [SpinLock](https://github.com/daniel-hutao/spinlock) | 💃🔒 SpinLock: A high-performance spin lock implementation in Go. ⚡️🚀 |
 | [GoPool](https://github.com/devchat-ai/gopool) | GoPool is a high-performance, feature-rich, and easy-to-use worker pool library for Golang. |
 
-Want to know more about me? Go to [my website](https://www.danielhu.cn).
+Want to know more about me? Go to [my website](https://www.danielhu.cn) or 我的个人微信公众号“**胡说云原生**”.
 
 ---
 
